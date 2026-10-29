@@ -1,8 +1,17 @@
+# Backend
+https://github.com/ulhaqjackyhaw/My_Hiking_Backend
+# RAG AI
+https://github.com/ulhaqjackyhaw/My_Hiking_Chatbot
+
+
+
 # myhiking
 
 A new Flutter project.
 
 ## Getting Started
+
+
 
 This project is a starting point for a Flutter application.
 
